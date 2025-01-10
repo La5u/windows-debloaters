@@ -1,0 +1,23 @@
+body {
+	font-family: monospace;
+	background: black;
+	color: white;
+	text-align: left;
+	margin: 20px;
+}
+
+a {
+	font-size: 20px;
+	color: skyblue;
+	text-decoration: none;
+	
+}
+
+a:hover {
+	color: white;
+	text-decoration: underline;
+}
+
+#repos div {
+	white-space: pre; /* Preserve whitespace for consistent formatting */
+}
